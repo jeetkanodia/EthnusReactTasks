@@ -1,0 +1,22 @@
+.main {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 5px;
+  padding: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.textarea {
+  width: 100%;
+  max-width: 1000%;
+
+}
