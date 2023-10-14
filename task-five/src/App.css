@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 5px;
+  font-weight: bold;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  background-color: rgb(104, 104, 207);
+  border-radius: 10px;
+}
